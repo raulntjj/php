@@ -169,6 +169,26 @@
                         </li>
                     </ul>
                 </div>
+                <div class="modulo preto">
+                    <h3>Funções</h3>
+                    <ul>
+                        <li>
+                            <a href="ex.php?dir=funções&file=funcao_escopo">
+                                Função e Escopo
+                            </a>
+                        </li>
+                        <li>
+                            <a href="ex.php?dir=funções&file=argumentos">
+                                Argumentos
+                            </a>
+                        </li>
+                        <li>
+                            <a href="ex.php?dir=funções&file=tipos">
+                                Tipos
+                            </a>
+                        </li>
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>
